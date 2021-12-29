@@ -40,4 +40,14 @@ We intend to update it every few weeks or so, which for an unsupported version, 
 
 ###### This project is not affiliated with The Fabric Project, or Fabric's own development.
 
+# Project Team
+### PseudoDistant (Distant)
+Project owner, and lead maintainer.  
+Preservationist and nostalgic by heart, Distant is wanted in 17 states over accusations of posting Pop Cat.
+
+### LemonExtract (Kirb)
+Project mascot, novice developer.  
+Cute ball of puff finding his way in the world, also knows a bit too much about **[FOR PUBLIC SAFETY REASONS, THIS ENTRY HAS BEEN CUT BY THE NSA]** Arizona.
+
+
 Discord: https://discord.gg/AuBwdetqzm
