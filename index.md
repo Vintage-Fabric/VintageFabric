@@ -39,3 +39,5 @@ We intend to update it every few weeks or so, which for an unsupported version, 
 
 
 ###### This project is not affiliated with The Fabric Project, or Fabric's own development.
+
+Discord: https://discord.gg/AuBwdetqzm
