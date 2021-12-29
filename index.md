@@ -11,8 +11,8 @@ layout: default
 
 
 Fabric Intermediaries, Yarn mappings, and API for 1.13.2.
-Previous 1.13 Fabric projects have been based on the late Legacy Fabric, but I believe that it'd be more worthwhile to backport modern Fabric to 1.13.2, since 1.13.2 is closer to 1.14 than it is 1.12.2. 1.13 has more in common with modern versions than it does Legacy versions, so I believe that 1.13 should be considered as such.  
-Therefore, the most practical way to approach this would be to backport the modern Fabric toolchain than to upport Rewoven (Legacy Fabric's successor).
+Previous 1.13 Fabric projects have been based on the late Legacy Fabric, but I believe that it'd be more worthwhile to backport modern Fabric to 1.13.2, since 1.13 has more in common with modern versions than it does Legacy versions. I believe that 1.13 should be considered a modern version for that reason.  
+That said, the most practical way to approach this would be to backport the modern Fabric toolchain, as opposed to upporting Rewoven (Legacy Fabric's successor).
 
 # Why Fabric on 1.13.2?
 
