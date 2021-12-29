@@ -21,12 +21,14 @@ Therefore, the most practical way to approach this would be to backport the mode
 Why not Fabric on 1.13.2? 
 - Forge is slow, buggy, and hard to use. 
 - Rift is focken dead, and also not very easy to use. 
+
 There's only upsides here from a technical standpoint.
 
 # How can I help?
 
 You're focken crazy, you know that?
 Eh don't sweat it, I'm crazier.
+
 You can start by forking, and submitting PRs. 
 If you want to join the project, DM `PseudoDistant#4597` on Discord, or message `@FarLikesDoritos` on Telegram.
 
@@ -34,8 +36,11 @@ If you want to join the project, DM `PseudoDistant#4597` on Discord, or message 
 
 ### We want to support those too! 
 We aim to backport updates to the latest Fabric API to older versions of the game that Fabric dropped support for, such as 1.14.4, and 1.15.2.
+
 One thing that must be noted is **We are not The Fabric Project**, that is, we cannot update as regularly as they do. 
+
 However that doesn't mean we can't get the API up to latest. In fact, we can, just not as often.
+
 We intend to update it every few weeks or so, which for an unsupported version, should still be more than adequate.
 
 
